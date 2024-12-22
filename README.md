@@ -3,7 +3,7 @@
 <h3>Hello there</h3><img width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/5177/5177581.png">
 
 
-- 🌱 I’m currently learning JavaScript and Java.
+- 🌱 I’m currently learning Typescript and Phyton.
 - 📫 How to reach me: matheus.2013.carvalho@hotmail.com
 
 ##

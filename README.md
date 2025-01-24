@@ -16,7 +16,7 @@
   <img align="center" alt="MathTS" height="30" width="40" style="margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="MathPython" height="30" width="40" style="margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="MathReact" height="30" width="40" style="margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="MathBootstrap" height="30" width="40" style="margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg">
+  <img align="center" alt="MathBootstrap" height="30" width="40" style="margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
 </div></center>
 
 ##

@@ -16,8 +16,8 @@
   <img align="center" alt="MathTS" height="30" width="40" style="margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="MathPython" height="30" width="40" style="margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="MathReact" height="30" width="40" style="margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="MathBootstrap" height="30" width="40" style="margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="MathBootstrap" height="30" width="40" style="margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg">
 </div></center>
 
 ##
-<div><a href="mailto:matheus.2013.carvalho@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a><a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://seuwebsite.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a></div>
+<div><a href="mailto:matheus.2013.carvalho@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a><a href="https://www.linkedin.com/in/matheus-carvalho-90b842236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://seuwebsite.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a></div>
